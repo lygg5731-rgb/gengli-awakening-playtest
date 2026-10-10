@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
   "target": "standalone-browser-brawler",
-  "totalBytes": 17596268,
+  "totalBytes": 19350473,
   "projectBudgetBytes": 20971520,
   "withinProjectBudget": true,
   "files": [
@@ -14,6 +14,46 @@
       "path": "assets/arena_b3.webp",
       "bytes": 462576,
       "sha256": "7c4a26c8fd9a65fbdf64645d350e0937470c4bef88a4b5dba5408e5062c60a8f"
+    },
+    {
+      "path": "assets/brawler/enemies/boss.png",
+      "bytes": 408165,
+      "sha256": "badb33dc149ee79eb7ebcc75fb85f474bbc4b38859ac7355c6a990231b8eacaf"
+    },
+    {
+      "path": "assets/brawler/enemies/boss.webp",
+      "bytes": 132436,
+      "sha256": "1cfaf18bd440de3d1568dc2a623ba1f6701e99f22781af99fdadda27a850672a"
+    },
+    {
+      "path": "assets/brawler/enemies/charger.png",
+      "bytes": 323733,
+      "sha256": "1593d691281ef6a2ff9e17bdadca74d0fa8a0115852d79cf0a4a0ef2ba459382"
+    },
+    {
+      "path": "assets/brawler/enemies/charger.webp",
+      "bytes": 101162,
+      "sha256": "3cc5fcea7ccf20f9ebe6cf61a96ba8037ea8e6fd00e823777b5fd02c00c2d4be"
+    },
+    {
+      "path": "assets/brawler/enemies/melee.png",
+      "bytes": 294566,
+      "sha256": "c697b8a84589601f6879cb26efcbfa423f0693f0fe3ccca342346faeba0ae2a8"
+    },
+    {
+      "path": "assets/brawler/enemies/melee.webp",
+      "bytes": 87524,
+      "sha256": "92b2082d2c28a76529ffed3d752da96ab8280d17c2f21329d098f8053a72b25e"
+    },
+    {
+      "path": "assets/brawler/enemies/shooter.png",
+      "bytes": 307866,
+      "sha256": "3c0e86778e072e3e737536c4937b1cc8b94b7733f026162a3d9a09ebc0aac1a5"
+    },
+    {
+      "path": "assets/brawler/enemies/shooter.webp",
+      "bytes": 96974,
+      "sha256": "a2e230d25117ee431f0fdb60b07c72c24dda77d2bc220eb9de03bd74703f6164"
     },
     {
       "path": "assets/brawler/icons/agreement.svg",
@@ -217,13 +257,13 @@
     },
     {
       "path": "brawler.js",
-      "bytes": 37543,
-      "sha256": "67c1a2cd6e9ae381838cb7d7b5d45f134a95bdf14c16a1365a98788ff0c07e04"
+      "bytes": 39322,
+      "sha256": "a4e89cce48654c8c6ead02d4fcd9917f2a263795e8db39ed03d55cebaed26372"
     },
     {
       "path": "index.html",
       "bytes": 4281,
-      "sha256": "df2aba9c3b4a633300da09a75afc9e25249dd2358a9ad10cc1ffdcf1cfe76fbd"
+      "sha256": "4c3237deb50448b344b16a0fe569b2a3e591faef0bd3d3466da4db41081356f9"
     }
   ],
   "excluded": [
