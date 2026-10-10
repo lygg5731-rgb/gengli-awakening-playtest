@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
   "target": "standalone-browser-brawler",
-  "totalBytes": 2296513,
+  "totalBytes": 3522898,
   "projectBudgetBytes": 20971520,
   "withinProjectBudget": true,
   "files": [
@@ -9,6 +9,46 @@
       "path": "assets/arena_b3.webp",
       "bytes": 462576,
       "sha256": "7c4a26c8fd9a65fbdf64645d350e0937470c4bef88a4b5dba5408e5062c60a8f"
+    },
+    {
+      "path": "assets/brawler/icons/agreement.svg",
+      "bytes": 448,
+      "sha256": "2e3a791d6fc980832700fa54c786775761b359c90148e5909a8f344821fe0ca0"
+    },
+    {
+      "path": "assets/brawler/icons/blame-pot.svg",
+      "bytes": 509,
+      "sha256": "d0d4b355018bf3fbfe65f79e6bc4c32df49a1c305c63ee22be1165daa180234e"
+    },
+    {
+      "path": "assets/brawler/icons/comments.svg",
+      "bytes": 442,
+      "sha256": "dde161ca447dfb45e110a8d0bc88c9d5566501b7824ff5a99544e7101b8f1fe8"
+    },
+    {
+      "path": "assets/brawler/icons/fist.svg",
+      "bytes": 392,
+      "sha256": "a384411992ce8faa48cc307eaec182e9d0b63a938ae6835822a44f2707513a8d"
+    },
+    {
+      "path": "assets/brawler/icons/jump.svg",
+      "bytes": 376,
+      "sha256": "b65780fd3ff857db24f41f25679efbe259d874e0317a650b2f83f66a9a869c90"
+    },
+    {
+      "path": "assets/brawler/scenes/argument-court.webp",
+      "bytes": 343926,
+      "sha256": "e63bf797316dd27536e665e4cad18508e7aa7fb2fbffe5472fd2a1bc8aa3a1d3"
+    },
+    {
+      "path": "assets/brawler/scenes/comment-street.webp",
+      "bytes": 512894,
+      "sha256": "3472f4c29c93bd40acb9971a6ec6d9d99adf4a3be053b35e7e3f8fc3dc72b7d0"
+    },
+    {
+      "path": "assets/brawler/scenes/trending-plaza.webp",
+      "bytes": 359210,
+      "sha256": "8700fbe29937fe28a3c7f24aeaf5bffd3639ee461977aeaebccda4b89531d99d"
     },
     {
       "path": "assets/pack01/characters/traffic/actions/char_traffic_air_001.webp",
@@ -82,18 +122,18 @@
     },
     {
       "path": "brawler.css",
-      "bytes": 8461,
-      "sha256": "1a69111ddd9d395b6f778257a9c9ce6f6b9828652f63d463d1674f3c68b6f03f"
+      "bytes": 10783,
+      "sha256": "66b51904e1fd13faa8766ac4a7758df43514eaeaf1bb2b0010b64dd4e39536b9"
     },
     {
       "path": "brawler.js",
-      "bytes": 31528,
-      "sha256": "9b931aa7b385056992ff09057d6924f31af8de8c4b930ac5426ea0a279797b22"
+      "bytes": 36474,
+      "sha256": "f4e291310d8198354281cccaecc14c3a20e468da541338f27464804882e9451e"
     },
     {
       "path": "index.html",
-      "bytes": 3302,
-      "sha256": "ffcd1e35e36179fc7e18c0b81d617d4159bda9ed57329ffc28483bed5607b9c2"
+      "bytes": 4222,
+      "sha256": "e59765fde8b149fc2bf7c506aaffe8f5a580765ff36eaaed9679da5508f86366"
     }
   ],
   "excluded": [
