@@ -1,0 +1,106 @@
+{
+  "entry": "index.html",
+  "target": "standalone-browser-brawler",
+  "totalBytes": 2296513,
+  "projectBudgetBytes": 20971520,
+  "withinProjectBudget": true,
+  "files": [
+    {
+      "path": "assets/arena_b3.webp",
+      "bytes": 462576,
+      "sha256": "7c4a26c8fd9a65fbdf64645d350e0937470c4bef88a4b5dba5408e5062c60a8f"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_air_001.webp",
+      "bytes": 125130,
+      "sha256": "0f252947cb80493268be857211f364790db869b865119b077bfc2793e1eb5c4b"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_atk1_001.webp",
+      "bytes": 147830,
+      "sha256": "47c1789ab7482795acf6117bc63c9ce5dba26cce8718907e788f5b370cfeb440"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_atk2_001.webp",
+      "bytes": 140960,
+      "sha256": "39b863454ba0f9034c5096c00686751a869eb23f4cea047f112022aaa6f9b521"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_atk3_001.webp",
+      "bytes": 129632,
+      "sha256": "4e5364ee24921fe6e581a470cd4c66f34de76daa5393e113a559f971c436bd3a"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_down_001.webp",
+      "bytes": 57614,
+      "sha256": "bab7d0f026a6f6889eaf0149626c3d1a4ff461935c687bbd6bb2f2eba1ee4243"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_hit_001.webp",
+      "bytes": 119974,
+      "sha256": "e60356c0fd7295f248493c86e5c44f4489e8f46d3f7acbe7674f027c9e0d3bee"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_idle_001.webp",
+      "bytes": 118708,
+      "sha256": "235858e917c6fdcbc7fe310c0808d407828e183125af950dc2df13892ff3b39f"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_jump_001.webp",
+      "bytes": 118934,
+      "sha256": "7894085cbd8dea25bb593647281f5e4e331751547765458390fc4d5f1d102e69"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_ko_001.webp",
+      "bytes": 66156,
+      "sha256": "43c066fd5d4e382412311ac7b84c8e845a9899eae0fa8f1cc72e919e6ad2a53a"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_run_001.webp",
+      "bytes": 134070,
+      "sha256": "614e5373fa50bf732ff324fdb678ae959edaf692f8db3eed8e74b4692e247734"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_skill1_cast_001.webp",
+      "bytes": 124454,
+      "sha256": "8067fce15e372b69a61875bb9501bcbe2ef83341058021c884bc934b4e663034"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_skill2_cast_001.webp",
+      "bytes": 178804,
+      "sha256": "ed1ad46c4511518df23fed133e3e886e324ac180bcba09d969eef96720c3f79f"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_skill3_cast_001.webp",
+      "bytes": 127354,
+      "sha256": "7bcb3a7d44cd5e8ee65721eb56c1c972f04c4efd41784447853b4c77e6b8c9de"
+    },
+    {
+      "path": "assets/pack01/characters/traffic/actions/char_traffic_wakeup_001.webp",
+      "bytes": 201026,
+      "sha256": "9800870690cdf24cc5460bc2ed43927f5885b8dbe9b5e0e0ef10855c9f343e29"
+    },
+    {
+      "path": "brawler.css",
+      "bytes": 8461,
+      "sha256": "1a69111ddd9d395b6f778257a9c9ce6f6b9828652f63d463d1674f3c68b6f03f"
+    },
+    {
+      "path": "brawler.js",
+      "bytes": 31528,
+      "sha256": "9b931aa7b385056992ff09057d6924f31af8de8c4b930ac5426ea0a279797b22"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3302,
+      "sha256": "ffcd1e35e36179fc7e18c0b81d617d4159bda9ed57329ffc28483bed5607b9c2"
+    }
+  ],
+  "excluded": [
+    "legacy survivor and duel",
+    "cards",
+    "top-down art",
+    "art reference archives"
+  ],
+  "platformStatus": "Browser build only; Douyin host, main/subpackages and real-device acceptance remain pending."
+}

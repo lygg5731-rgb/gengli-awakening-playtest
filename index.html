@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0a0e17"><title>梗力觉醒 · 横版闯关</title><link rel="stylesheet" href="brawler.css"></head>
+<body><main>
+<header class="topbar"><a class="wordmark" href="index.html"><span>梗</span>梗力觉醒 <small>COMMENT // BRAWL</small></a><nav><span class="prototype-tag">战斗手感原型</span></nav></header>
+<section class="stage" aria-label="横版闯关战场">
+<canvas id="arena" width="960" height="540" tabindex="0" aria-label="横版战场：WASD或方向键移动，J普攻，U I O技能，空格跳跃"></canvas>
+<div class="hud"><div class="health"><span>流量 <b id="hp-text">240 / 240</b></span><div class="life-track"><i id="hp-fill"></i></div><small id="action-state">可移动 · 普攻三连</small></div><div class="stage-info"><b id="area-name">评论区入口</b><small id="wave-label">第 1 区 / 3</small></div><div class="mini-stats"><b id="kills">0</b><span>击败</span><time id="clock">00:00</time></div><button id="pause" aria-label="暂停游戏">Ⅱ</button><button id="mute" aria-label="关闭声音">♪</button></div>
+<div id="boss-hud" hidden><b>终极杠精 <span id="boss-hp"></span><small id="boss-state">认清预警，躲招反击</small></b><div class="life-track"><i id="boss-fill"></i></div></div>
+<div class="combo" id="combo" hidden><b id="combo-count">0</b><span>COMBO</span></div><div id="notice" role="status" aria-live="polite"></div>
+<div class="controls"><div id="joystick" role="group" aria-label="移动摇杆"><span class="knob"></span><small>MOVE</small></div><div class="attack-pad">
+<button data-action="key" aria-label="键来 U"><b>键来</b><small>U · 穿透</small><em></em></button><button data-action="rage" aria-label="急急急 I"><b>急急急</b><small>I · 冲拳</small><em></em></button><button data-action="pan" aria-label="这锅我不背 O"><b>不背锅</b><small>O · 解围</small><em></em></button><button data-action="jump" aria-label="跳跃 空格"><b>跳跃</b><small>SPACE</small></button><button class="light-button" data-action="light" aria-label="普攻 J"><b>普攻</b><small>J · 三连</small></button>
+</div></div>
+<div id="overlay" class="overlay"><section id="panel" role="dialog" aria-modal="true" aria-labelledby="panel-title"><p class="eyebrow">STAGE 01 / 评论区开战</p><h1 id="panel-title">别讲道理。<br><span>打出连招。</span></h1><p>前后错位，把怪聚到面前。<br>普攻三连接冲拳，锅盖解围，躲招后反击。</p><div class="instructions">WASD 移动 · J 普攻 · U / I / O 技能<br>空格跳跃 · Esc 暂停</div><button id="start" class="primary">进入街区 <span>→</span></button><small class="prototype-note">战斗手感原型 · 连续动作帧仍待补齐</small></section></div>
+</section><footer class="footnote"><span>01 / 聚怪 → 连招 → 推进 → Boss</span><span id="asset-status">横屏游玩 · 手动出招</span></footer>
+<div id="rotate-hint" hidden><span>↻</span><h2>横过来，准备开打。</h2><p>横屏能看清前后站位与攻击范围。<br>转回横屏后点击继续。</p></div>
+</main><script src="brawler.js"></script></body></html>
