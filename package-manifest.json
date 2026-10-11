@@ -1,7 +1,7 @@
 {
   "entry": "index.html",
   "target": "standalone-browser-brawler",
-  "totalBytes": 19350473,
+  "totalBytes": 19350650,
   "projectBudgetBytes": 20971520,
   "withinProjectBudget": true,
   "files": [
@@ -257,13 +257,13 @@
     },
     {
       "path": "brawler.js",
-      "bytes": 39322,
-      "sha256": "a4e89cce48654c8c6ead02d4fcd9917f2a263795e8db39ed03d55cebaed26372"
+      "bytes": 39499,
+      "sha256": "271f55e84a6a5203626b36353ef64903071d025eb3caaaa5c491c009c437a9ad"
     },
     {
       "path": "index.html",
       "bytes": 4281,
-      "sha256": "4c3237deb50448b344b16a0fe569b2a3e591faef0bd3d3466da4db41081356f9"
+      "sha256": "6787040c2f0ab14a2e57a8397e2b324638b66e1b7719b07de022c84af58878d8"
     }
   ],
   "excluded": [
